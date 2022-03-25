@@ -7,3 +7,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Afifah Nur Sallamah] - [2010631170001]
 - [Annabella Dian Dameria Sinambela] - [2010631170054]
 - [Anandito Rafi Putra] - [2010631170137]
+- Adrian Wibisono - 2010631170043
