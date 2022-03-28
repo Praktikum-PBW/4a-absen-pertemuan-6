@@ -9,6 +9,7 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Yohanes Anjar Dewantara] - [2010631170134]
 - [Alfian Vito Anggoro] - [2010631170044]
 - [Anandito Rafi Putra] - [2010631170137]
+- [Alifa Maha Rizka] - [2010631170047]
 - [Altolyto Sitanggang] - [2010631170049]
 - [Almira Zahra] - [2010631170048]
 - Adrian Wibisono - 2010631170043
