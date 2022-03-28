@@ -9,6 +9,7 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Yohanes Anjar Dewantara] - [2010631170134]
 - [Alfian Vito Anggoro] - [2010631170044]
 - [Anandito Rafi Putra] - [2010631170137]
+- [Adrian Aufarrizqi] - [2010631170042]
 - [Alif Karimullah] - [2010631170046]
 - [Ali Dongan Harahap] | [2010631170045]
 - [Asyifa Maulana] - [2010631170004]
