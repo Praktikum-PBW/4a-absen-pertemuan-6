@@ -9,6 +9,7 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Yohanes Anjar Dewantara] - [2010631170134]
 - [Alfian Vito Anggoro] - [2010631170044]
 - [Anandito Rafi Putra] - [2010631170137]
+- [Dede Fitriyani] - [2010631170007]
 - [Anisa Nur Hasanah] - [2010631170052]
 - [anisah]-[2010631170053]
 - [Jovanka Sandra Nathalie Silalahi] - [2010631170133]
