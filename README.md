@@ -9,3 +9,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Yohanes Anjar Dewantara] - [2010631170134]
 - [Alfian Vito Anggoro] - [2010631170044]
 - [Anandito Rafi Putra] - [2010631170137]
+- [Alvi Yuniar] - [2010631170050]
